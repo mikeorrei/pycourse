@@ -11,6 +11,7 @@ Topics Covered:
 - Loops
 
 Assignment:
+
 Two provided dictionaries for monsters and player attacks
 They can be tweaked, re-named, whatever
 Dictionaries can be found below:
