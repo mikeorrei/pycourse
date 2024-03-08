@@ -12,9 +12,9 @@ Topics Covered:
 
 Assignment:
 
-Two provided dictionaries for monsters and player attacks
-They can be tweaked, re-named, whatever
-Dictionaries can be found below:
+Two provided dictionaries for monsters and player attacks  
+They can be tweaked, re-named, whatever  
+Dictionaries can be found below:  
 - /week_one/homework.py
 
 Basic flow of the game is as follows:
