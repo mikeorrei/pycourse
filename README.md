@@ -26,7 +26,7 @@ Basic flow of the game is as follows:
 - When either the monster or player's health is zero battle ends
 - Up to you what happens next
   - Player can have the option to continue or quit
-- New monster can be selected with no player input
+  - New monster can be selected with no player input
 
 ## Week 2 - 3/22
 Topics Covered:
