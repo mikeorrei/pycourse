@@ -30,10 +30,21 @@ Basic flow of the game is as follows:
 
 ## Week 2 - 3/22
 Topics Covered:
-- Functions
-- Recursion
-- First Class Functions
-- Importing Packages
+- Function basics
+- Importing packages
+
+Assignment:
+Start by converting last week's homework into functions wherever possible
+Try to keep them small, it's generally better to have more small functions
+Anything that repeats is high priority for a function
+
+After that, if you want, you can implement item drops from monsters
+I would recommend ignoring the strength and hast items to start with
+Beyond that you can add the skip and cooldown to player attacks
+Skip will skip X player turns
+Cooldown means it can't be used again for X turns
+
+The starting code can be found in week_two/homework.py
 
 ## Week 3 - 4/5
 Topics Covered:
