@@ -48,7 +48,29 @@ The starting code can be found in week_two/homework.py
 
 ## Week 3 - 4/5
 Topics Covered:
+- Continued Functions Discussion
+- Tokenization and Parsing
+- Abstract Syntax Trees
+- Recursion
+
+Assignment:
+Continue with assignment from week 2
+Feel free to expand the game as much as you'd like
+
+## Week 4 - 4/19
+Topics Covered:
 - Classes
-- Objects
-- Methods
 - Inheritance
+- Methods
+
+Assignment:
+Work on converting the previous assignment into classes
+Feel free to create as many or as little as you like
+You can use the Player and Character classes I built during class
+If you use my classes they will most likely need to be adjusted to fit your game
+
+Other class ideas:
+- Monster class
+- Item class
+- Sub Item class (Healing Items, Buff Items, etc)
+- Make the game itself a class
