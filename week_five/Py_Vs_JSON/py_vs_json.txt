@@ -1,0 +1,17 @@
+Python:
+
+Dictionary:
+obj = {"id": "1111", "name": "mike"}
+obj["id"]
+
+List:
+["1111", "2222", "3333", "4444"]
+
+Javascript:
+
+Object:
+obj = {"id": "1111", "name": "mike"}
+obj["id"]
+
+Array:
+["1111", "2222", "3333", "4444"]
